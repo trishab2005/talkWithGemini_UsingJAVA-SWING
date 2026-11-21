@@ -29,6 +29,12 @@ talkWithGemini_UsingJAVA-SWING/
 ├── src/
 │   └── main/
 │       └── java/          # Application source code (Swing UI & Gemini API client)
+│          └── com/
+│              └── example/
+│                  └── Test.java
+│                  └── Talk.java
+│                  └── GUI.java
+│                  └── WindowTest.java
 ├── .gitignore
 ├── pom.xml                # Maven dependencies and build configuration
 └── README.md
