@@ -15,7 +15,7 @@ A lightweight desktop chat application built with **Java Swing** and **Apache Ma
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java (JDK 17+)
+- **Language:** Java (JDK 25 or higher)
 - **GUI Framework:** Java Swing (`javax.swing`, `java.awt`)
 - **Build Tool:** Apache Maven
 - **AI Integration:** Google Gemini API (`generativelanguage.googleapis.com`)
